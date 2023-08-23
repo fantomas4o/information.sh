@@ -46,6 +46,10 @@ The script provides an option to execute numbered scripts. Users can select from
 Script can be extended and improved by adding new options or scripts.
 Users are encouraged to customize and modify the script to meet their specific requirements and needs.
 
+Contributing
+
+Contributions are welcome! If you find any issues or want to enhance the functionality of the app, feel free to open a pull request.
+
 <h1>Feedback</h1>
 
 If you encounter any issues, have suggestions, or would like to contribute improvements, please feel free to open an issue or create a pull request on the GitHub repository.
