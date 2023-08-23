@@ -1,11 +1,11 @@
+#!/bin/bash
+
 # Author     : Fedya Serafiev
 # Version    : 1.3
 # License    : MIT
 # Copyright  : Fedya Serafiev (2023)
 # Github     : https://github.com/fantomas4o/information.sh
 # Contact    : https://urocibg.eu/
-
-#!/bin/bash
 
 # Colors
 
