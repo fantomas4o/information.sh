@@ -4,6 +4,8 @@
 
 The Information Script (information.sh) is a Bash script designed to provide users with various system-related operations through an interactive menu. It offers a convenient way to retrieve information about the system, display the external IP address, update the system, and execute numbered scripts. The script is intended to assist users in performing these tasks more efficiently and interactively.
 
+The script is created in Bulgarian and English. Choose the version you prefer.
+
 <h1>Features</h1>
 
 Display external IP address.
